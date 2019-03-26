@@ -1,0 +1,6 @@
+---
+applications:
+- name : santander-holamundo
+  instances : 1
+  memory : 256M
+  buildpack: sdk-for-nodejs
